@@ -1,0 +1,646 @@
+==========================================
+flagcount after first image is - 2278 
+
+At the count no. 2 the flagcount is  -  2278
+
+At the count no. 3 the flagcount is  -  2278
+
+At the count no. 4 the flagcount is  -  2278
+
+At the count no. 5 the flagcount is  -  2278
+
+At the count no. 6 the flagcount is  -  2278
+
+At the count no. 7 the flagcount is  -  2278
+
+At the count no. 8 the flagcount is  -  2278
+
+At the count no. 9 the flagcount is  -  2278
+
+At the count no. 10 the flagcount is  -  2278
+
+The final mean is at (325,223) 
+
+The velocity is (47662,47671) at frame no. 12  with mean (325,223) 
+
+The velocity is (-1,-1) at frame no. 13  with mean (325,223) 
+
+The velocity is (-4,-2) at frame no. 14  with mean (326,224) 
+
+The velocity is (-1,-3) at frame no. 15  with mean (330,226) 
+
+The velocity is (-1,-2) at frame no. 16  with mean (331,229) 
+
+The velocity is (-2,-6) at frame no. 17  with mean (332,231) 
+
+The velocity is (0,0) at frame no. 18  with mean (334,237) 
+
+The velocity is (0,0) at frame no. 19  with mean (334,237) 
+
+The velocity is (0,0) at frame no. 20  with mean (334,237) 
+
+The velocity is (-1,3) at frame no. 21  with mean (334,237) 
+
+The velocity is (-1,-3) at frame no. 22  with mean (335,234) 
+
+The velocity is (-4,0) at frame no. 23  with mean (336,237) 
+
+The velocity is (-1,-2) at frame no. 24  with mean (340,237) 
+
+The velocity is (-3,0) at frame no. 25  with mean (341,239) 
+
+The velocity is (-3,-2) at frame no. 26  with mean (344,239) 
+
+The velocity is (-1,-9) at frame no. 27  with mean (347,241) 
+
+The velocity is (-3,-2) at frame no. 28  with mean (348,250) 
+
+The velocity is (-5,-5) at frame no. 29  with mean (351,252) 
+
+The velocity is (-6,4) at frame no. 30  with mean (356,257) 
+
+The velocity is (-8,-2) at frame no. 31  with mean (362,253) 
+
+The velocity is (-2,-1) at frame no. 32  with mean (370,255) 
+
+The velocity is (-7,-1) at frame no. 33  with mean (372,256) 
+
+The velocity is (-5,0) at frame no. 34  with mean (379,257) 
+
+The velocity is (-6,-1) at frame no. 35  with mean (384,257) 
+
+The velocity is (-6,-9) at frame no. 36  with mean (390,258) 
+
+The velocity is (-6,1) at frame no. 37  with mean (396,267) 
+
+The velocity is (4,-8) at frame no. 38  with mean (402,266) 
+
+The velocity is (-3,-5) at frame no. 39  with mean (398,274) 
+
+The velocity is (-1,-10) at frame no. 40  with mean (401,279) 
+
+The velocity is (-4,-3) at frame no. 41  with mean (402,289) 
+
+The velocity is (-8,8) at frame no. 42  with mean (406,292) 
+
+The velocity is (-6,-5) at frame no. 43  with mean (414,284) 
+
+The velocity is (-7,-7) at frame no. 44  with mean (420,289) 
+
+The velocity is (-10,-10) at frame no. 45  with mean (427,296) 
+
+The velocity is (-4,-5) at frame no. 46  with mean (437,306) 
+
+The velocity is (-3,3) at frame no. 47  with mean (441,311) 
+
+The velocity is (0,-2) at frame no. 48  with mean (444,308) 
+
+The velocity is (-6,0) at frame no. 49  with mean (444,310) 
+
+The velocity is (-3,1) at frame no. 50  with mean (450,310) 
+
+The velocity is (-6,-4) at frame no. 51  with mean (453,309) 
+
+The velocity is (-6,-1) at frame no. 52  with mean (459,313) 
+
+The velocity is (-11,2) at frame no. 53  with mean (465,314) 
+
+The velocity is (0,-4) at frame no. 54  with mean (476,312) 
+
+The velocity is (-2,-6) at frame no. 55  with mean (476,316) 
+
+The velocity is (-8,-3) at frame no. 56  with mean (478,322) 
+
+The velocity is (0,0) at frame no. 57  with mean (486,325) 
+
+The velocity is (5,-7) at frame no. 58  with mean (486,325) 
+
+The velocity is (0,-3) at frame no. 59  with mean (481,332) 
+
+The velocity is (-9,7) at frame no. 60  with mean (481,335) 
+
+The velocity is (-3,-8) at frame no. 61  with mean (490,328) 
+
+The velocity is (-7,1) at frame no. 62  with mean (493,336) 
+
+The velocity is (-8,-8) at frame no. 63  with mean (500,335) 
+
+The velocity is (1,-4) at frame no. 64  with mean (508,343) 
+
+The velocity is (-5,0) at frame no. 65  with mean (507,347) 
+
+The velocity is (0,2) at frame no. 66  with mean (512,347) 
+
+The velocity is (-3,-4) at frame no. 67  with mean (512,345) 
+
+The velocity is (-1,-2) at frame no. 68  with mean (515,349) 
+
+The velocity is (-22,-1) at frame no. 69  with mean (516,351) 
+
+The velocity is (-13,-8) at frame no. 70  with mean (538,352) 
+
+The velocity is (-11,7) at frame no. 71  with mean (551,360) 
+
+The velocity is (-20,-7) at frame no. 72  with mean (562,353) 
+
+The velocity is (-24,2) at frame no. 73  with mean (582,360) 
+
+The velocity is (-13,0) at frame no. 74  with mean (606,358) 
+
+The velocity is (3,2) at frame no. 75  with mean (619,358) 
+
+The velocity is (-7,-8) at frame no. 76  with mean (616,356) 
+
+The velocity is (-8,-3) at frame no. 77  with mean (623,364) 
+
+The velocity is (-5,-3) at frame no. 78  with mean (631,367) 
+
+The velocity is (-14,-4) at frame no. 79  with mean (636,370) 
+
+The velocity is (5,0) at frame no. 80  with mean (650,374) 
+
+The velocity is (7,-8) at frame no. 81  with mean (645,374) 
+
+The velocity is (-4,3) at frame no. 82  with mean (638,382) 
+
+The velocity is (2,2) at frame no. 83  with mean (642,379) 
+
+The velocity is (-12,-11) at frame no. 84  with mean (640,377) 
+
+The velocity is (0,-7) at frame no. 85  with mean (652,388) 
+
+The velocity is (8,0) at frame no. 86  with mean (652,395) 
+
+The velocity is (7,-3) at frame no. 87  with mean (644,395) 
+
+The velocity is (11,1) at frame no. 88  with mean (637,398) 
+
+The velocity is (0,-4) at frame no. 89  with mean (626,397) 
+
+The velocity is (4,-5) at frame no. 90  with mean (626,401) 
+
+The velocity is (6,-5) at frame no. 91  with mean (622,406) 
+
+The velocity is (10,-5) at frame no. 92  with mean (616,411) 
+
+The velocity is (0,-2) at frame no. 93  with mean (606,416) 
+
+The velocity is (1,0) at frame no. 94  with mean (606,418) 
+
+The velocity is (-8,-3) at frame no. 95  with mean (605,418) 
+
+The velocity is (-11,-2) at frame no. 96  with mean (613,421) 
+
+The velocity is (0,-5) at frame no. 97  with mean (624,423) 
+
+The velocity is (3,-3) at frame no. 98  with mean (624,428) 
+
+The velocity is (-1,1) at frame no. 99  with mean (621,431) 
+
+The velocity is (-18,0) at frame no. 100  with mean (622,430) 
+
+The velocity is (0,0) at frame no. 101  with mean (640,430) 
+
+The velocity is (-12,-6) at frame no. 102  with mean (640,430) 
+
+The velocity is (-16,-9) at frame no. 103  with mean (652,436) 
+
+The velocity is (0,4) at frame no. 104  with mean (668,445) 
+
+The velocity is (-12,-7) at frame no. 105  with mean (668,441) 
+
+The velocity is (-20,-5) at frame no. 106  with mean (680,448) 
+
+The velocity is (-3,-3) at frame no. 107  with mean (700,453) 
+
+The velocity is (17,-12) at frame no. 108  with mean (703,456) 
+
+The velocity is (3,-7) at frame no. 109  with mean (686,468) 
+
+The velocity is (-15,-7) at frame no. 110  with mean (683,475) 
+
+The velocity is (-8,-1) at frame no. 111  with mean (698,482) 
+
+The velocity is (1,3) at frame no. 112  with mean (706,483) 
+
+The velocity is (-2,-4) at frame no. 113  with mean (705,480) 
+
+The velocity is (-4,6) at frame no. 114  with mean (707,484) 
+
+The velocity is (3,6) at frame no. 115  with mean (711,478) 
+
+The velocity is (-1,-6) at frame no. 116  with mean (708,472) 
+
+The velocity is (-4,-2) at frame no. 117  with mean (709,478) 
+
+The velocity is (-13,0) at frame no. 118  with mean (713,480) 
+
+The velocity is (-4,-4) at frame no. 119  with mean (726,480) 
+
+The velocity is (-20,-7) at frame no. 120  with mean (730,484) 
+
+The velocity is (-12,-3) at frame no. 121  with mean (750,491) 
+
+The velocity is (-1,9) at frame no. 122  with mean (762,494) 
+
+The velocity is (-12,4) at frame no. 123  with mean (763,485) 
+
+The velocity is (-15,1) at frame no. 124  with mean (775,481) 
+
+The velocity is (-12,4) at frame no. 125  with mean (790,480) 
+
+The velocity is (-11,11) at frame no. 126  with mean (802,476) 
+
+The velocity is (-15,10) at frame no. 127  with mean (813,465) 
+
+The velocity is (-6,-1) at frame no. 128  with mean (828,455) 
+
+The velocity is (-8,0) at frame no. 129  with mean (834,456) 
+
+The velocity is (-2,0) at frame no. 130  with mean (842,456) 
+
+The velocity is (-9,4) at frame no. 131  with mean (844,456) 
+
+The velocity is (-15,0) at frame no. 132  with mean (853,452) 
+
+The velocity is (-10,4) at frame no. 133  with mean (868,452) 
+
+The velocity is (-15,3) at frame no. 134  with mean (878,448) 
+
+The velocity is (-15,-1) at frame no. 135  with mean (893,445) 
+
+The velocity is (-14,-2) at frame no. 136  with mean (908,446) 
+
+The velocity is (-12,0) at frame no. 137  with mean (922,448) 
+
+The velocity is (0,-9) at frame no. 138  with mean (934,448) 
+
+The velocity is (-15,-1) at frame no. 139  with mean (934,457) 
+
+The velocity is (-17,-11) at frame no. 140  with mean (949,458) 
+
+The velocity is (-5,0) at frame no. 141  with mean (966,469) 
+
+The velocity is (-3,8) at frame no. 142  with mean (971,469) 
+
+The velocity is (-13,4) at frame no. 143  with mean (974,461) 
+
+The velocity is (1,7) at frame no. 144  with mean (987,457) 
+
+The velocity is (-4,2) at frame no. 145  with mean (986,450) 
+
+The velocity is (-3,-14) at frame no. 146  with mean (990,448) 
+
+The velocity is (-7,-3) at frame no. 147  with mean (993,462) 
+
+The velocity is (-9,-13) at frame no. 148  with mean (1000,465) 
+
+The velocity is (-7,-7) at frame no. 149  with mean (1009,478) 
+
+The velocity is (-16,-1) at frame no. 150  with mean (1016,485) 
+
+The velocity is (-7,-10) at frame no. 151  with mean (1032,486) 
+
+The velocity is (-17,1) at frame no. 152  with mean (1039,496) 
+
+The velocity is (0,1) at frame no. 153  with mean (1056,495) 
+
+The velocity is (15,2) at frame no. 154  with mean (1056,494) 
+
+The velocity is (5,6) at frame no. 155  with mean (1041,492) 
+
+The velocity is (0,0) at frame no. 156  with mean (1036,486) 
+
+The velocity is (4,-1) at frame no. 157  with mean (1036,486) 
+
+The velocity is (-4,-5) at frame no. 158  with mean (1032,487) 
+
+The velocity is (4,0) at frame no. 159  with mean (1036,492) 
+
+The velocity is (1,5) at frame no. 160  with mean (1032,492) 
+
+The velocity is (-3,12) at frame no. 161  with mean (1031,487) 
+
+The velocity is (0,-3) at frame no. 162  with mean (1034,475) 
+
+The velocity is (4,0) at frame no. 163  with mean (1034,478) 
+
+The velocity is (-4,0) at frame no. 164  with mean (1030,478) 
+
+The velocity is (2,-4) at frame no. 165  with mean (1034,478) 
+
+The velocity is (0,-9) at frame no. 166  with mean (1032,482) 
+
+The velocity is (-5,1) at frame no. 167  with mean (1032,491) 
+
+The velocity is (-1,-9) at frame no. 168  with mean (1037,490) 
+
+The velocity is (-1,-7) at frame no. 169  with mean (1038,499) 
+
+The velocity is (-7,-4) at frame no. 170  with mean (1039,506) 
+
+The velocity is (3,-4) at frame no. 171  with mean (1046,510) 
+
+The velocity is (-6,-4) at frame no. 172  with mean (1043,514) 
+
+The velocity is (-7,-2) at frame no. 173  with mean (1049,518) 
+
+The velocity is (-9,6) at frame no. 174  with mean (1056,520) 
+
+The velocity is (-19,4) at frame no. 175  with mean (1065,514) 
+
+The velocity is (-16,-14) at frame no. 176  with mean (1084,510) 
+
+The velocity is (-20,-6) at frame no. 177  with mean (1100,524) 
+
+The velocity is (-11,1) at frame no. 178  with mean (1120,530) 
+
+The velocity is (-24,-9) at frame no. 179  with mean (1131,529) 
+
+The velocity is (-14,-3) at frame no. 180  with mean (1155,538) 
+
+The velocity is (-12,-4) at frame no. 181  with mean (1169,541) 
+
+The velocity is (-14,2) at frame no. 182  with mean (1181,545) 
+
+The velocity is (-16,-4) at frame no. 183  with mean (1195,543) 
+
+The velocity is (0,-1) at frame no. 184  with mean (1211,547) 
+
+The velocity is (-9,-10) at frame no. 185  with mean (1211,548) 
+
+The velocity is (5,3) at frame no. 186  with mean (1220,558) 
+
+The velocity is (-8,-11) at frame no. 187  with mean (1215,555) 
+
+The velocity is (-14,-10) at frame no. 188  with mean (1223,566) 
+
+The velocity is (8,-11) at frame no. 189  with mean (1237,576) 
+
+The velocity is (4,2) at frame no. 190  with mean (1229,587) 
+
+The velocity is (-6,-3) at frame no. 191  with mean (1225,585) 
+
+The velocity is (-11,-10) at frame no. 192  with mean (1231,588) 
+
+The velocity is (-8,-8) at frame no. 193  with mean (1242,598) 
+
+The velocity is (-6,-5) at frame no. 194  with mean (1250,606) 
+
+The velocity is (-2,-12) at frame no. 195  with mean (1256,611) 
+
+The velocity is (2,-11) at frame no. 196  with mean (1258,623) 
+
+The velocity is (-4,0) at frame no. 197  with mean (1256,634) 
+
+The velocity is (10,-5) at frame no. 198  with mean (1260,634) 
+
+The velocity is (-5,-3) at frame no. 199  with mean (1250,639) 
+
+The velocity is (-24,-2) at frame no. 200  with mean (1255,642) 
+
+The velocity is (0,-5) at frame no. 201  with mean (1279,644) 
+
+The velocity is (-10,-5) at frame no. 202  with mean (1279,649) 
+
+The velocity is (2,3) at frame no. 203  with mean (1289,654) 
+
+The velocity is (13,-1) at frame no. 204  with mean (1287,651) 
+
+The velocity is (0,4) at frame no. 205  with mean (1274,652) 
+
+The velocity is (8,-2) at frame no. 206  with mean (1274,648) 
+
+The velocity is (1,5) at frame no. 207  with mean (1266,650) 
+
+The velocity is (1,-3) at frame no. 208  with mean (1265,645) 
+
+The velocity is (-8,-1) at frame no. 209  with mean (1264,648) 
+
+The velocity is (-6,0) at frame no. 210  with mean (1272,649) 
+
+The velocity is (5,-3) at frame no. 211  with mean (1278,649) 
+
+The velocity is (3,9) at frame no. 212  with mean (1273,652) 
+
+The velocity is (-3,0) at frame no. 213  with mean (1270,643) 
+
+The velocity is (2,0) at frame no. 214  with mean (1273,643) 
+
+The velocity is (3,-3) at frame no. 215  with mean (1271,643) 
+
+The velocity is (-5,-5) at frame no. 216  with mean (1268,646) 
+
+The velocity is (-1,-1) at frame no. 217  with mean (1273,651) 
+
+The velocity is (3,1) at frame no. 218  with mean (1274,652) 
+
+The velocity is (1,-4) at frame no. 219  with mean (1271,651) 
+
+The velocity is (-6,-5) at frame no. 220  with mean (1270,655) 
+
+The velocity is (-4,-5) at frame no. 221  with mean (1276,660) 
+
+The velocity is (-8,-9) at frame no. 222  with mean (1280,665) 
+
+The velocity is (-4,-2) at frame no. 223  with mean (1288,674) 
+
+The velocity is (-2,0) at frame no. 224  with mean (1292,676) 
+
+The velocity is (-3,-7) at frame no. 225  with mean (1294,676) 
+
+The velocity is (-18,-1) at frame no. 226  with mean (1297,683) 
+
+The velocity is (-7,-3) at frame no. 227  with mean (1315,684) 
+
+The velocity is (-8,-1) at frame no. 228  with mean (1322,687) 
+
+The velocity is (-16,2) at frame no. 229  with mean (1330,688) 
+
+The velocity is (-20,-8) at frame no. 230  with mean (1346,686) 
+
+The velocity is (-15,0) at frame no. 231  with mean (1366,694) 
+
+The velocity is (-7,8) at frame no. 232  with mean (1381,694) 
+
+The velocity is (-24,-9) at frame no. 233  with mean (1388,686) 
+
+The velocity is (6,4) at frame no. 234  with mean (1412,695) 
+
+The velocity is (-13,-7) at frame no. 235  with mean (1406,691) 
+
+The velocity is (-8,5) at frame no. 236  with mean (1419,698) 
+
+The velocity is (-13,-1) at frame no. 237  with mean (1427,693) 
+
+The velocity is (0,5) at frame no. 238  with mean (1440,694) 
+
+The velocity is (5,1) at frame no. 239  with mean (1440,689) 
+
+The velocity is (-10,-8) at frame no. 240  with mean (1435,688) 
+
+The velocity is (-4,-4) at frame no. 241  with mean (1445,696) 
+
+The velocity is (-8,-21) at frame no. 242  with mean (1449,700) 
+
+The velocity is (-18,-11) at frame no. 243  with mean (1457,721) 
+
+The velocity is (-4,-10) at frame no. 244  with mean (1475,732) 
+
+The velocity is (1,-13) at frame no. 245  with mean (1479,742) 
+
+The velocity is (-6,-18) at frame no. 246  with mean (1478,755) 
+
+The velocity is (-4,-3) at frame no. 247  with mean (1484,773) 
+
+The velocity is (6,-3) at frame no. 248  with mean (1488,776) 
+
+The velocity is (10,-9) at frame no. 249  with mean (1482,779) 
+
+The velocity is (13,-11) at frame no. 250  with mean (1472,788) 
+
+The velocity is (4,-8) at frame no. 251  with mean (1459,799) 
+
+The velocity is (-12,-9) at frame no. 252  with mean (1455,807) 
+
+The velocity is (-4,-1) at frame no. 253  with mean (1467,816) 
+
+The velocity is (-6,-1) at frame no. 254  with mean (1471,817) 
+
+The velocity is (-3,5) at frame no. 255  with mean (1477,818) 
+
+The velocity is (0,2) at frame no. 256  with mean (1480,813) 
+
+The velocity is (-3,-6) at frame no. 257  with mean (1480,811) 
+
+The velocity is (-9,-2) at frame no. 258  with mean (1483,817) 
+
+The velocity is (-4,5) at frame no. 259  with mean (1492,819) 
+
+The velocity is (-3,7) at frame no. 260  with mean (1496,814) 
+
+The velocity is (-2,-1) at frame no. 261  with mean (1499,807) 
+
+The velocity is (-17,0) at frame no. 262  with mean (1501,808) 
+
+The velocity is (-10,-2) at frame no. 263  with mean (1518,808) 
+
+The velocity is (-3,-1) at frame no. 264  with mean (1528,810) 
+
+The velocity is (-16,2) at frame no. 265  with mean (1531,811) 
+
+The velocity is (-3,-9) at frame no. 266  with mean (1547,809) 
+
+The velocity is (5,2) at frame no. 267  with mean (1550,818) 
+
+The velocity is (-9,-4) at frame no. 268  with mean (1545,816) 
+
+The velocity is (-4,-4) at frame no. 269  with mean (1554,820) 
+
+The velocity is (-3,-4) at frame no. 270  with mean (1558,824) 
+
+The velocity is (5,-6) at frame no. 271  with mean (1561,828) 
+
+The velocity is (12,0) at frame no. 272  with mean (1556,834) 
+
+The velocity is (0,-5) at frame no. 273  with mean (1544,834) 
+
+The velocity is (11,4) at frame no. 274  with mean (1544,839) 
+
+The velocity is (14,0) at frame no. 275  with mean (1533,835) 
+
+The velocity is (-10,-8) at frame no. 276  with mean (1519,835) 
+
+The velocity is (8,-6) at frame no. 277  with mean (1529,843) 
+
+The velocity is (1,-4) at frame no. 278  with mean (1521,849) 
+
+The velocity is (-12,-11) at frame no. 279  with mean (1520,853) 
+
+The velocity is (-20,-6) at frame no. 280  with mean (1532,864) 
+
+The velocity is (-22,-19) at frame no. 281  with mean (1552,870) 
+
+The velocity is (-16,-3) at frame no. 282  with mean (1574,889) 
+
+The velocity is (-27,-7) at frame no. 283  with mean (1590,892) 
+
+The velocity is (-9,-16) at frame no. 284  with mean (1617,899) 
+
+The velocity is (-20,-11) at frame no. 285  with mean (1626,915) 
+
+The velocity is (-17,-12) at frame no. 286  with mean (1646,926) 
+
+The velocity is (-13,4) at frame no. 287  with mean (1663,938) 
+
+The velocity is (-11,-7) at frame no. 288  with mean (1676,934) 
+
+The velocity is (8,1) at frame no. 289  with mean (1687,941) 
+
+The velocity is (-5,0) at frame no. 290  with mean (1679,940) 
+
+The velocity is (-13,0) at frame no. 291  with mean (1684,940) 
+
+The velocity is (-11,-2) at frame no. 292  with mean (1697,940) 
+
+The velocity is (-7,-7) at frame no. 293  with mean (1708,942) 
+
+The velocity is (0,-3) at frame no. 294  with mean (1715,949) 
+
+The velocity is (-5,7) at frame no. 295  with mean (1715,952) 
+
+The velocity is (-6,-8) at frame no. 296  with mean (1720,945) 
+
+The velocity is (1,-9) at frame no. 297  with mean (1726,953) 
+
+The velocity is (-1,6) at frame no. 298  with mean (1725,962) 
+
+The velocity is (-6,-2) at frame no. 299  with mean (1726,956) 
+
+The velocity is (-2,1) at frame no. 300  with mean (1732,958) 
+
+The velocity is (-4,-6) at frame no. 301  with mean (1734,957) 
+
+The velocity is (-19,-3) at frame no. 302  with mean (1738,963) 
+
+The velocity is (-10,0) at frame no. 303  with mean (1757,966) 
+
+The velocity is (-17,-3) at frame no. 304  with mean (1767,966) 
+
+The velocity is (-9,-10) at frame no. 305  with mean (1784,969) 
+
+The velocity is (-2,-9) at frame no. 306  with mean (1793,979) 
+
+The velocity is (-2,0) at frame no. 307  with mean (1795,988) 
+
+The velocity is (5,-7) at frame no. 308  with mean (1797,988) 
+
+The velocity is (-2,2) at frame no. 309  with mean (1792,995) 
+
+The velocity is (2,-3) at frame no. 310  with mean (1794,993) 
+
+The velocity is (-7,-2) at frame no. 311  with mean (1792,996) 
+
+The velocity is (-8,-2) at frame no. 312  with mean (1799,998) 
+
+The velocity is (-11,-4) at frame no. 313  with mean (1807,1000) 
+
+The velocity is (-9,2) at frame no. 314  with mean (1818,1004) 
+
+The velocity is (-5,-8) at frame no. 315  with mean (1827,1002) 
+
+The velocity is (8,-4) at frame no. 316  with mean (1832,1010) 
+
+The velocity is (4,-6) at frame no. 317  with mean (1824,1014) 
+
+The velocity is (2,-3) at frame no. 318  with mean (1820,1020) 
+
+The velocity is (-5,-5) at frame no. 319  with mean (1818,1023) 
+
+The velocity is (-17,2) at frame no. 320  with mean (1823,1028) 
+
+The velocity is (-5,-3) at frame no. 321  with mean (1840,1026) 
+
+The velocity is (-12,-2) at frame no. 322  with mean (1845,1029) 
+
+The velocity is (-6,4)

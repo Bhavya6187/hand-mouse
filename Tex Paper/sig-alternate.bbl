@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{bowman:reasoning}
+M.~Bowman, S.~K. Debray, and L.~L. Peterson.
+\newblock Reasoning about naming systems.
+\newblock {\em ACM Trans. Program. Lang. Syst.}, 15(5):795--825, November 1993.
+
+\bibitem{lucas81}
+B.~D. Lucas and T.~Kanade.
+\newblock An iterative image registration technique with an application to
+  stereo vision.
+\newblock {\em Proceedings of the 1981 DARPA Imaging Understanding Workshop},
+  pages 121--130, 1981.
+
+\end{thebibliography}

@@ -1,0 +1,16 @@
+@ARTICLE{bowman:reasoning,
+	AUTHOR = "Mic Bowman and Saumya K. Debray and Larry L. Peterson",
+	TITLE = "Reasoning About Naming Systems",
+	JOURNAL = "ACM Trans. Program. Lang. Syst.",
+	VOLUME = {15},
+	NUMBER = {5},
+	PAGES = {795-825},
+	MONTH = "November",
+	YEAR = {1993}	}
+
+@ARTICLE{lucas81,
+	AUTHOR = " B. D. Lucas and T. Kanade",
+	TITLE = "An iterative image registration technique with an application to stereo vision",
+	JOURNAL = "Proceedings of the 1981 DARPA Imaging Understanding Workshop",
+	PAGES = {pp. 121–130},
+	YEAR = {1981}	}
